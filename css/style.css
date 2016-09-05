@@ -1,0 +1,33 @@
+.wrapper {
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 18px;
+	font-family: sans-serif;
+}
+.list {
+  text-align: left;
+}
+.list__item {
+  margin: 10px 0;
+}
+.checkbox-btn {
+  margin-bottom: 5px;
+}
+.myButton {
+  margin-top: 25px;
+	background-color:#e0e5ff;
+	border:3px solid #424242;
+	display:inline-block;
+	cursor:pointer;
+	color:#424242;
+	padding:16px 55px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#e0e5ff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
